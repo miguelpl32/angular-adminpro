@@ -12,6 +12,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Visita el proyecto.
 
-[Visita el proyecto](https://admin-pro.netlify.app/dashboard)
+[Visita el proyecto](https://admin-pro.netlify.app/)
 
 
